@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\WindowsProgramming\\ProjectWP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21C61B0-105F-4433-9DAE-B28ACC9C1FBF}|UTEid\\UTEid.csproj|d:\\projects\\windowsprogramming\\projectwp\\uteid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D21C61B0-105F-4433-9DAE-B28ACC9C1FBF}|UTEid\\UTEid.csproj|solutionrelative:uteid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3EFA88A-7003-0E6B-D4E1-565C07FDF508}|UTEid\\UTEid.csproj|d:\\projects\\windowsprogramming\\projectwp\\uteid\\uteid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3EFA88A-7003-0E6B-D4E1-565C07FDF508}|UTEid\\UTEid.csproj|solutionrelative:uteid\\uteid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EFA88A-7003-0E6B-D4E1-565C07FDF508}|UTEid\\UTEid.csproj|d:\\projects\\windowsprogramming\\projectwp\\uteid\\views\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3EFA88A-7003-0E6B-D4E1-565C07FDF508}|UTEid\\UTEid.csproj|solutionrelative:uteid\\views\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\Form1.cs",
-              "RelativeDocumentMoniker": "UTEid\\Form1.cs",
-              "ToolTip": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\Form1.cs [Design]",
-              "RelativeToolTip": "UTEid\\Form1.cs [Design]",
+              "Title": "UTEid",
+              "DocumentMoniker": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\UTEid.csproj",
+              "RelativeDocumentMoniker": "UTEid\\UTEid.csproj",
+              "ToolTip": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\UTEid.csproj",
+              "RelativeToolTip": "UTEid\\UTEid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T02:53:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\Views\\Auth\\loginForm.cs",
+              "RelativeDocumentMoniker": "UTEid\\Views\\Auth\\loginForm.cs",
+              "ToolTip": "D:\\Projects\\WindowsProgramming\\ProjectWP\\UTEid\\Views\\Auth\\loginForm.cs [Design]",
+              "RelativeToolTip": "UTEid\\Views\\Auth\\loginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T02:38:44.269Z",
               "EditorCaption": " [Design]"
