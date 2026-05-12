@@ -1,0 +1,14 @@
+## Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.opendb
+*.ide
+*.sln.docstates
+
+## Cấu hình hệ thống
+Thumbs.db
+Desktop.ini

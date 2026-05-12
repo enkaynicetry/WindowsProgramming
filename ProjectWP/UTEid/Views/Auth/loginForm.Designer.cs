@@ -1,6 +1,6 @@
 ﻿namespace UTEid
 {
-    partial class loginForm
+    partial class LoginForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,10 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            SuspendLayout();
+            // 
+            // LoginForm
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Text = "Form1";
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Name = "LoginForm";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Login";
+            Load += this.LoginForm_Load;
+            ResumeLayout(false);
         }
 
         #endregion
